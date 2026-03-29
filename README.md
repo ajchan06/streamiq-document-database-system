@@ -1,1 +1,1 @@
-# databases-Project-2-AC
+# StreamIQ - MongoDB Database Project
