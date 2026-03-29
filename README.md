@@ -1,4 +1,3 @@
-# StreamIQ - MongoDB Database Project
 # StreamIQ — Music Streaming Document Database
 ### CS3200 Project 2: Design & Implement a Document Database
 
